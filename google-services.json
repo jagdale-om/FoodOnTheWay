@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "239923097296",
+    "project_id": "foodontheway-2ea7a",
+    "storage_bucket": "foodontheway-2ea7a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:239923097296:android:e9e2d74f7218bbf70338d5",
+        "android_client_info": {
+          "package_name": "com.example.foodontheway"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGdecKdwW8Gud6Mv7WxIPC6R2P0ODvbTc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
